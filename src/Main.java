@@ -9,6 +9,9 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         String A = scanner.next();
         String B = scanner.next();
-        
+        System.out.println(A.length() + B.length());
+        if(
+
+        }
     }
 }
